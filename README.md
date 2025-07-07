@@ -15,7 +15,6 @@ Many students miss out on career opportunities due to lack of awareness, outdate
 - **📝 Resume & Cover Letter Builder**: Interactive templates with real-time feedback.
 - **📅 Career Events Calendar**: Register for workshops, fairs, mock interviews.
 - **🧑‍💼 One-Click Apply**: Apply for jobs directly from the platform.
-- **💬 Career Coach Chat**: Live chat support with career advisors.
 
 ### 🎯 Unique Feature
 - **AI-Powered Career Matching Engine**: Dynamically matches students with relevant job and internship listings based on their academic history, skills, interests, and resume.
