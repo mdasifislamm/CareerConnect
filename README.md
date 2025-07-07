@@ -61,4 +61,21 @@ Many students miss out on career opportunities due to lack of awareness, outdate
 
 ## 💡 Folder Structure
 
-
+```bash
+careerconnect/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── layouts/
+│   ├── hooks/
+│   └── App.tsx
+├── supabase/
+│   ├── edge-functions/
+│   └── schema.sql
+├── README.md
+├── vite.config.ts
+├── package.json
+└── tailwind.config.js
