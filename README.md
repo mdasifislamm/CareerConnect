@@ -8,7 +8,7 @@ Many students miss out on career opportunities due to lack of awareness, outdate
 
 ---
 
-## 🎯 Features
+## 🎯 Features.
 
 ### Core MVP Features
 - **🎓 Student Dashboard**: Personalized job/internship recommendations based on user profile and preferences.
